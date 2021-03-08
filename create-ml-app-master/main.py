@@ -1,5 +1,5 @@
 """Example script to train a simple FC NN on MNIST."""
-#sumith
+#sumith  ,
 import argparse
 
 import torch
